@@ -1,0 +1,11 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    line-height: 1.6;
+    background-color : #DBF9FC;
+    color: rgb(43, 44, 46);
+}
+
+h1, h2 {
+  font-family: "Lucida Handwriting", "Brush Script MT", cursive;
+}

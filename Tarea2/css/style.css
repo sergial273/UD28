@@ -1,0 +1,13 @@
+body {
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 30px;
+    margin: 20px;
+    line-height: 1.6;
+    background-color : #DBF9FC;
+    color: rgb(29, 159, 29);
+}
+
+h1, h2 {
+  font-family: "Lucida Handwriting", "Brush Script MT", cursive;
+  color: #a01616;
+}
