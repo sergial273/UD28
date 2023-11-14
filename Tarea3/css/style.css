@@ -1,0 +1,28 @@
+
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  background-color : #fbfcdb;
+  color: rgb(43, 44, 46);
+}
+
+#titulo{
+  background-color: #e9bc41;
+  margin: 0;
+}
+
+ul {
+  padding-left: 2%;
+}
+
+span {
+  color: rgb(93, 93, 170);
+}
+
+h2 {
+  font-size:large;
+}
+
