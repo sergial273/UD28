@@ -1,0 +1,84 @@
+
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Lucida Sans Unicode";
+  line-height: 1.6;
+  background-color : white;
+  color: rgb(43, 44, 46);
+}
+
+#titulo{
+  text-align: center;
+  letter-spacing: 5px;
+  margin: 0;
+  color: rgb(172, 136, 52);
+  margin-bottom: 20px;
+  font-size: xxx-large;
+}
+
+#titulo_secundario{
+  color: rgb(89, 164, 90);
+  letter-spacing: 5px;
+  border-bottom: 2px solid rgb(89, 164, 90);
+  line-height: 25px;
+}
+
+span {
+  color: rgb(106, 194, 108);
+}
+
+#panel {
+  display: flex;
+  height: 100vh;
+}
+
+#botones {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: top;
+  max-width: 300px;
+}
+
+button {
+  width: 200px;
+  height: 50px;
+  margin-bottom: 10px;
+  font-size: medium;
+  color: rgb(60, 57, 57);
+  background: linear-gradient(to bottom, #e8f2e9 40%, #37f41e);
+}
+
+.marcado{
+  background: linear-gradient(to bottom, #e8f2e9 40%, rgb(244, 30, 30));
+  color: black;
+}
+
+#tit {
+  flex: 2;
+  display: flex;
+  flex-direction: column;
+  align-items: left;
+  justify-content: top;
+  max-height: 400px;
+  max-width: 75%;
+  background-image: linear-gradient(to bottom, #e4e6ea, #dedfe3, #eceef2, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #eceef2, #dedfe3, #e4e6ea);
+  border-radius: 5px;
+  margin-bottom: 0;
+  padding-left: 20px;
+  padding-top: 10px;
+}
+
+p {
+  margin-top: 5px;
+}
+
+h2 {
+  color: #c17913;
+  font-size:130%;
+  margin-bottom: 10px;
+}
+
